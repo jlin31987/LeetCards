@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LeetCards/static/css/main.05cbc31a.css",
+    "main.js": "/LeetCards/static/js/main.415ab296.js",
+    "static/js/156.b871fd3a.chunk.js": "/LeetCards/static/js/156.b871fd3a.chunk.js",
+    "index.html": "/LeetCards/index.html",
+    "main.05cbc31a.css.map": "/LeetCards/static/css/main.05cbc31a.css.map",
+    "main.415ab296.js.map": "/LeetCards/static/js/main.415ab296.js.map",
+    "156.b871fd3a.chunk.js.map": "/LeetCards/static/js/156.b871fd3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05cbc31a.css",
+    "static/js/main.415ab296.js"
+  ]
+}
